@@ -1,0 +1,7 @@
+<library path="lib/libnode_zed_nodelet">
+    <class name="node_zed_nodelet/Zed_ROS_Class"
+         type="node_zed_nodelet::Zed_ROS_Class"
+         base_class_type="nodelet::Nodelet">
+    <description>This is the main nodelet of the ROS interface for Stereolabs ZED Camera.</description>
+    </class>
+</library>
