@@ -1,0 +1,8 @@
+<library path="libns_3DMNE">
+    <class name="ns_3DMNE/Class_Mapping_Node" type="ns_3DMNE::Class_Mapping_Node" base_class_type="nodelet::Nodelet">
+        <description>This is the main nodelet of the ROS interface for Stereolabs ZED Camera.</description>
+    </class>
+    <class name="ns_3DMNE/Class_Triangulation_Node" type="ns_3DMNE::Class_Triangulation_Node" base_class_type="nodelet::Nodelet">
+        <description>This is the main nodelet of the ROS interface for Triangulation Node.</description>
+    </class>
+</library>
